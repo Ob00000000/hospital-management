@@ -1,0 +1,16 @@
+# __pycache__
+**/__pycache__
+
+# Virtualenv
+env
+venv/
+
+**.fig
+Screenshots/
+**.sqlite3
+
+runserver
+hospital_management/credentials.py
+
+# Database
+db.sqlite3
